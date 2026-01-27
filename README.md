@@ -1,3 +1,4 @@
+![Vektorspiel auf dem Oszilloskop](osciscreen.jpg)
 # ESP32 VectorGame Console 
 **Version 0.1 beta – Released January 2026**
 
